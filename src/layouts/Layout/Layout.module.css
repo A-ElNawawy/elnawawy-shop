@@ -1,0 +1,8 @@
+.layout {
+  height: 100vh;
+}
+.content {
+  background-color: red;
+  display: -ms-grid;
+  display: grid;
+}
